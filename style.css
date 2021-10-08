@@ -1,0 +1,22 @@
+body {
+  padding: 10px;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+}
+
+label, button {
+  margin-top: 10px;
+}
+
+input, textarea{
+  margin: 5px;
+}
+
+textarea {
+  height: 200px;
+}
+
+
